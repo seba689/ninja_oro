@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    border: none;
+    color: black;
+    font-weight: 800;
+}
+#oro{
+    font-size: 30px ;
+}
+
+#pantalla{
+    border: 2px solid black;
+    z-index: 10000;
+}
